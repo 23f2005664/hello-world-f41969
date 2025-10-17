@@ -1,2 +1,5 @@
-# hello-world-f41969
-Auto-generated for task: hello-world
+# hello-world
+
+Generated automatically.
+
+Brief: Create a single-page site that prints Hello World.
